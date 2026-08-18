@@ -13,7 +13,7 @@
 ...
 
 
-# Myśli podczas tworzenia strony dla fryzjerki
+#   Myśli podczas tworzenia strony dla fryzjerki
 
 ## 📐 Decyzje architektoniczne
 
