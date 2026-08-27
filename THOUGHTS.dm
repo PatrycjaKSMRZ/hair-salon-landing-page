@@ -14,6 +14,8 @@
 
 
 #   Myśli podczas tworzenia strony dla fryzjerki
+27.08.2026
+tworzenie index. css
 
 ## 📐 Decyzje architektoniczne
 
