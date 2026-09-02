@@ -24,8 +24,9 @@ function App() {
       <section id="PriceList"><PriceList /></section>
       <section id="Team"><Team /></section>
       <section id="Contact"><Contact /></section>
-      <section id="Footer"><Footer /></section>
+     
     </main>
+     <Footer />
    </div>
     </>
   )

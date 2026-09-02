@@ -12,6 +12,8 @@ html {
 }
 
 body {
+    padding-top: 80px; /*Scrollujesz – header zostaje. Ale uwaga! Treść pod nim znika. Dlaczego? Bo fixed wyrywa go z przestrzeni.
+Rozwiązanie: W swoim głównym index.css (globalnym) dodajesz padding-top: 80px; do body. (Zapamiętaj to, to częsty błąd początkujących!).*/
     font-family: 'Poppins', sans-serif;
     background-color: #F9F5F0;
     color: #2C221C;

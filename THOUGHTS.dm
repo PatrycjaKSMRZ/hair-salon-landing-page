@@ -14,6 +14,9 @@
 
 
 #   Myśli podczas tworzenia strony dla fryzjerki
+02.09.2026
+HEADER
+najpierw tworzę szkielet html header>dav>nav>a i potem to styluje
 27.08.2026
 tworzenie index. css
 

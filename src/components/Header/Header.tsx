@@ -1,9 +1,20 @@
+import styles from './Header.module.css'
+
 function    Header() {
     return (
-        <div className="header">
-            <h1>Hairdressing Website</h1>
-            <p>Welcome to our salon!</p>
-        </div>
+        <header className={styles.header}>
+            <div className={styles.wrapper}>
+                <span className={styles.logo}>Salon strong hair </span>
+                <nav className={styles.nav}>
+                    <a href="">home</a>
+                    <a href="">cennik</a>
+                    <a href="">galeria</a>
+                    <a href="">zespół</a>
+                    <a href="">kontakt</a>
+                    <a href="">UMÓW WIZYTĘ</a>
+                </nav>
+            </div>
+        </header>
     );
 }
 export default Header;
